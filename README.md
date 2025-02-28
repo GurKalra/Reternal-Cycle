@@ -3,7 +3,7 @@
 Reternal Cycle is a text-based adventure game inspired by *Returnal*. It features an immersive world where players explore procedurally generated rooms, interact with items, and engage in combat. The game is written in C and focuses on dynamic room allocation, an inventory system, and an upcoming weapon combat mechanic.
 
 ## Note from the Developer
-This is my first project, so please be kind with feedback! I'm learning as I go and excited to improve based on suggestions. 🚀
+This is my first project, so please be kind with feedback! I'm learning as I go and excited to improve based on suggestions. 
 
 ## Features
 - **Exploration**: Navigate interconnected rooms with unique descriptions and items.
