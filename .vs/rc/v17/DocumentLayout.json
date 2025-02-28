@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gurvansh\\source\\repos\\rc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAAE8100-B6F2-49D8-B43F-C9E020354C28}|rc\\rc.vcxproj|C:\\Users\\Gurvansh\\source\\repos\\rc\\rc\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CAAE8100-B6F2-49D8-B43F-C9E020354C28}|rc\\rc.vcxproj|solutionrelative:rc\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\Gurvansh\\source\\repos\\rc\\rc\\main.c",
+              "RelativeDocumentMoniker": "rc\\main.c",
+              "ToolTip": "C:\\Users\\Gurvansh\\source\\repos\\rc\\rc\\main.c",
+              "RelativeToolTip": "rc\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-28T19:49:44.953Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
